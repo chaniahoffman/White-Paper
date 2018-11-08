@@ -6,6 +6,8 @@
 
 [Iowa State](http://www.cfsph.iastate.edu/Factsheets/pdfs/african_swine_fever.pdf)
 
+[OIE](http://www.oie.int/en/animal-health-in-the-world/information-on-aquatic-and-terrestrial-animal-diseases/african-swine-fever/reports-on-asf/)
+
 
 ## Keywords
 
