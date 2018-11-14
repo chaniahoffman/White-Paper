@@ -20,3 +20,5 @@ You will produce a research abstract consisting of a list of potential sources (
 
 [Genetic Variation among African Swine Fever Genotype II Viruses, Eastern and Central Europe](http://web.a.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=18&sid=08664600-4974-4261-93e4-13dbd08a9db0%40sdc-v-sessmgr05)
 
+
+These sources discuss the recent outbreak of African Swine Fever in Africa and Europe and the potential risk for ASF to enter and impact the U.S.. These sources have multiple visuals (graphs, etc.) to explain the spread of ASF and its genetic differences compared to other viruses. I will be providing a informational paper that can be given to hog producers to prevent ASF in their own herd and identify if they have contracted it. 
