@@ -1,4 +1,4 @@
-#Research Abstract 
+# Research Abstract 
 
 You will produce a research abstract consisting of a list of potential sources (at least 8-10) with a paragraph describing what you are investigating and how the sources will inform your work.
 
